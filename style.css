@@ -1,0 +1,46 @@
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif; */
+/* CSS Rules */
+.designation{
+    font-weight: 600;
+    font-size:2.7rem;
+    font-family:'Montserrat', sans-serif;
+}
+#img-desc{
+    padding: 5% 9%;
+}
+
+#header-section{
+    margin: 3% 10%;
+    font-color: #F66B0E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+body{
+    background-color: #383838;
+    color: #fff;
+}
+
+.pos{
+    margin-top: 4%;
+}
+.profile-pic{
+    width: 55%;
+    margin-left: 23%;
+}
+.header-div{
+    margin: 5% 60% 5% 20%;
+}
+
+.bold{
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.bg-bold{
+    color: #E8C07D;
+}
+.nav-item-color{
+    
+}
