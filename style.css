@@ -22,17 +22,25 @@ body{
     color: #fff;
 }
 
+a{
+  font-family: 'Montserrat-bold',sans-serif;
+}
+
 .pos{
     margin-top: 4%;
 }
 .profile-pic{
-    width: 55%;
+    width: 45%;
     margin-left: 23%;
+
+    /* border-radius: 100%; */
 }
 .header-div{
     margin: 5% 60% 5% 20%;
 }
-
+.top-bar-right{
+  padding-left: 50%;
+}
 .bold{
     font-weight: 700;
     font-family: 'Montserrat', sans-serif;
@@ -42,5 +50,5 @@ body{
     color: #E8C07D;
 }
 .nav-item-color{
-    
+
 }
