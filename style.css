@@ -1,54 +1,79 @@
 /* font-family: 'Montserrat', sans-serif;
 font-family: 'Poppins', sans-serif; */
 /* CSS Rules */
-.designation{
-    font-weight: 600;
-    font-size:2.7rem;
-    font-family:'Montserrat', sans-serif;
-}
-#img-desc{
-    padding: 5% 9%;
-}
 
-#header-section{
-    margin: 3% 10%;
-    font-color: #F66B0E;
+/* font-family: 'Merriweather Sans', sans-serif; */
+
+
+.designation {
+    font-weight: 600;
+    font-size: 2.7rem;
     font-family: 'Montserrat', sans-serif;
 }
 
+#img-desc {
+    padding: 5% 9%;
+}
 
-body{
+#header-section {
+    margin: 3% 10%;
+    color: #F66B0E;
+    /* font-family: 'Montserrat', sans-serif; */
+}
+
+
+body {
     background-color: #383838;
-    color: #fff;
+    color: #CDF0EA;
 }
 
-a{
-  font-family: 'Montserrat-bold',sans-serif;
+/* a {
+    font-family: 'Montserrat-bold', sans-serif;
+} */
+
+.container-fluid {
+    /* font-family: "Merriweather Sans", sans-serif; */
+    font-weight:800;
+    color: #DAB88B;
+}
+.creative-color{
+    color: #DAB88B;
 }
 
-.pos{
+.left-align{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.pos {
     margin-top: 4%;
 }
-.profile-pic{
-    width: 45%;
+
+.profile-pic {
+    padding-top: 5%;
+    width: 40%;
     margin-left: 23%;
+    right: 30%;
+    border-radius: 45%;
 
     /* border-radius: 100%; */
 }
-.header-div{
+
+.header-div {
     margin: 5% 60% 5% 20%;
 }
-.top-bar-right{
-  padding-left: 50%;
+
+.top-bar-right {
+    padding-left: 50%;
 }
-.bold{
+
+.bold {
     font-weight: 700;
     font-family: 'Montserrat', sans-serif;
 }
 
-.bg-bold{
+.bg-bold {
     color: #E8C07D;
 }
-.nav-item-color{
 
-}
+.nav-item-color {}
