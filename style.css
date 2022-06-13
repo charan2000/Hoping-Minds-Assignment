@@ -11,6 +11,9 @@ font-family: 'Poppins', sans-serif; */
     font-family: 'Montserrat', sans-serif;
 }
 
+div{
+}
+
 #img-desc {
     padding: 5% 9%;
 }
@@ -33,8 +36,15 @@ body {
 
 .container-fluid {
     /* font-family: "Merriweather Sans", sans-serif; */
-    font-weight:800;
-    color: #DAB88B;
+    
+  width: 300px;
+  height: 80px;
+  border: double 1em transparent;
+  border-radius: 30px;
+  background-image: linear-gradient(rgb(182, 104, 104), rgb(26, 241, 241)), 
+                    linear-gradient(to right, green, gold);
+  background-origin: border-box;
+  background-clip: content-box, border-box;
 }
 .creative-color{
     color: #DAB88B;
